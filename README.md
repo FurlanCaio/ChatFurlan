@@ -23,10 +23,10 @@ Estilização em formato de chat moderno
 https://github.com/FurlanCaio/ChatFurlan.git <br>
 cd ChatFurlan
 
-2️⃣ Backend (Node + Socket.io)
-cd backend
-npm install
-node app.js
+2️⃣ Backend (Node + Socket.io) <br>
+cd backend <br>
+npm install <br>
+node app.js <br>
 
 Servidor inicia por padrão em:
 
