@@ -43,7 +43,6 @@ Aplicação irá rodar (geralmente) em:
 http://localhost:5173
 
 🚀 Tecnologias utilizadas <br>
-Tecnologia	Uso <br>
 Vue 3	Frontend <br>
 Vite Build / Dev server <br>
 Node.js	Backend <br>
