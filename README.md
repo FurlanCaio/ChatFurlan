@@ -20,7 +20,7 @@ Estilização em formato de chat moderno
 ▶️ Como rodar o projeto
 
 1️⃣ Clonar o repositório
-https://github.com/FurlanCaio/ChatFurlan.git
+https://github.com/FurlanCaio/ChatFurlan.git <br>
 cd ChatFurlan
 
 2️⃣ Backend (Node + Socket.io)
